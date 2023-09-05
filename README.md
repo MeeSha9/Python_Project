@@ -1,4 +1,5 @@
-# Python_Project
+# Python_Project 
+EDA -> Feature Engineering -> Machine Learning Algorithms -> Takeaways
 
 Flight Price Prediction
 
