@@ -1,5 +1,5 @@
 # Python_Project 
-EDA -> Feature Engineering -> Machine Learning Algorithms -> Takeaways
+Course of action - Exploratory data analysis (EDA) -> Feature Engineering -> Machine Learning Algorithms -> Takeaways
 
 Flight Price Prediction
 
