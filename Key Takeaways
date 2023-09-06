@@ -1,1 +1,27 @@
+Key Takeaways:
 
+1. The model that gives the best result is the `XGBRegressor` with on the test dataset an R^2 score equals to 0.9592 and MAE score equals to 2616.6.
+
+
+2. There is a big gap between flight tickets in business and economy. On an average business tickets are 5 times more expensive than economy tickets.
+
+
+3. Vistara and AirIndia seems to be the most expensive companies and AirAsia the cheapest. However for business tickets, only Vistara and AirIndia are available, and Vistara is slightly more expensive.
+
+
+4. In general, prices rise quite slowly until 20 days before the flight where the prices rise drastically. But one day before the flight, there usually are empty seats that have not been sold. Thus it is possible to find tickets three times cheaper than the day before.
+
+
+5. The longer the flight is the more expensive the tickets are until it reaches around 20 hours, then the prices tend to decrease.
+
+
+6. For the time of the flight:
+
+* It seems that departure during the afternoon and late night are cheaper, and night departure is more expensive.
+* It seems that arrival during the early morning, afternoon and late night are cheaper, and evening arrival is more expensive.
+
+
+7. For the cities of the trip:
+
+* Flights from Delhi are the cheapest and for others cities it seems equal on average but slightly more expensive for Chennai.
+* Flights to Delhi are the cheapest and to Kolkata, the most expensive ones.
